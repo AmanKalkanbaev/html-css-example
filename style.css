@@ -1,7 +1,8 @@
 button{
-    /* border: solid black 1px; */
+    border: solid  hsl(40,100%,45%) 1px;
     border-radius: 4px;
     padding: 6px 12px;
     display: inline-block;
     font-size: 16px;
+    background-color: hsl(40,100%,45%);
 }
